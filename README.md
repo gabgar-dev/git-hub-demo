@@ -12,3 +12,4 @@ change 4 - merge dev into master
 change 5 - gabriel adding text
 
 change 6 - clean up
+change 6 - forcing a conflict
